@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600");
+@import "middle.css";
+@import "header.css";
+@import "bottom.css";
+* {
+  box-sizing: border-box;
+}
+.wholebody{
+    display:flex;
+    flex-direction: column;
+    justify-content:space-around;
+    background-color: #F8F8F8;
+    width:500px;
+    height:800px;
+}

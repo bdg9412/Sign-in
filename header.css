@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: space-between;
+}
+.forgot{
+    position: absolute;
+    right: 520px;
+}
